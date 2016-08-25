@@ -1,0 +1,20 @@
+@import 'https://fonts.googleapis.com/css?family=Cormorant+Garamond';
+/* Оформление параграфов */
+body{
+    background-image: url(img/1-temnaya-tekstura-kristalov.png); 
+    
+}
+#page{
+    width: 600px;
+    margin: 0 auto;
+}
+.strong-red{
+    font-weight: normal;
+    color: white;
+    margin-top: 100px;
+    text-align: justify;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    
+    
+}
